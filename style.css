@@ -1,0 +1,184 @@
+html,body{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.nav-item{
+padding-right: 15px;
+font-size: 20px;
+}
+.nav-start{
+    color:rgba(241, 178, 4, 0.911);
+    font-size: 35px;
+    font-weight: 500;
+   padding: 10px 10px 10px 0px;
+}
+.wraper{
+margin-top: 87px ;
+
+}
+.bg {
+
+    background-image: url("img/1041618.jpg");
+  
+  
+    height: 650px;
+    width: 1480px;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.mbr-section-title{
+    font-size: 80px;
+    
+    font-weight: 600;
+    color: rgba(245, 204, 56);
+    padding: 100px 0px 0px 100px;
+}
+.mbr-section-subtitle{
+    font-size: 60px;
+    
+    font-weight: 300;
+    color: rgb(255, 218, 7);
+    padding: 20px 0px 0px 100px;
+}
+.mbr-section-text {
+    font-size: 30px;
+    
+    font-weight: 30;
+    color: rgba(245, 204, 56);
+    padding: 20px 0px 0px 100px;
+}
+.mbr-section-btn{
+    padding-left: 100px;
+    margin-top: 50px;
+}
+.btn-warning{
+ font-weight: bolder;
+}
+hr{
+
+   width: 5%;
+   border: black 1px solid;
+
+}
+.row-item{
+
+    padding: 0px 40px 5px 5px;
+}
+.container{
+    padding-bottom: 60px;
+}
+.left{
+    font-size: 30px;
+    color: black;
+}
+.left:hover{
+    color: rgb(255, 218, 7);
+    font-size: 35px;
+}
+.stats-item{
+    background-color:rgb(167, 166, 166);
+    height: 400px;
+}
+.stats-item1{
+    background-color:rgb(223, 219, 219);
+    height: 400px;
+}
+.middle {
+    padding-top: 150px;
+    font-size: 45px;
+    color: black;
+}
+.middle:hover{
+    color: rgb(255, 218, 7);
+    font-size: 50px;
+}
+.irow{
+    padding-bottom: 60px;
+}
+.mbr-text{
+    font-size: 20px;
+}
+.mbr-fonts-style{
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.final{
+    background-color:rgb(255, 247, 219);
+    padding-bottom: 80px;
+
+}
+.last{
+    padding-top: 60px;
+}
+.icon-background{
+    color: rgb(49, 49, 49);
+}
+.icon-background:hover{
+    color: rgb(255, 218, 7);
+}
+.social a{
+    font-size: 30px;
+    padding: 10px;
+    
+  }
+  .fa-facebook{
+    color:white;
+  }
+  .fa-twitter{
+    color: white
+  }
+  .fa-google-plus-g{
+    color: white
+  }
+  .fa-instagram{
+    color: white
+  }
+  .fa-youtube{
+    color:white
+  }
+  .fa-linkedin{
+      color: white;
+  }
+  .fa-comment,.fa-lightbulb,.fa-file-invoice tah,.fa-sun{
+      color: white;
+  }
+  .card-img{
+      font-size: 50px;
+  }
+  .fa-facebook:hover,
+  .fa-twitter:hover,
+  .fa-google-plus-g:hover,
+  .fa-instagram:hover,
+  .fa-youtube:hover,
+  .fa-linkedin:hover{
+    color: rgb(255, 218, 7);
+  }
+  footer{
+    background-color: #111010;
+    color: #d5d5d5;
+    padding-top: 32px;
+  }
+   .ftext{
+ padding-bottom: 25px;
+  }
+  .ftext:hover{
+      color: rgb(245, 244, 241);
+      font-size: 50px;
+  }
+  .tah{
+      color: rgb(245, 241, 241);
+  }
+  .dicon{
+      color:red;
+      padding-top: 30px;
+  }
+  .small{
+      color: yellow;
+      padding-left:90px ;
+    
+  }
